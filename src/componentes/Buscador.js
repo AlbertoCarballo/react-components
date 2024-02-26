@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import './RecipeCardDesign.css';
 function Buscador({ onSearch }) {
     const [searchTerm, setSearchTerm] = useState('');
 
@@ -13,7 +13,7 @@ function Buscador({ onSearch }) {
     };
 
     return (
-        <form onSubmit={handleSubmit}>
+        <form className="buscador" onSubmit={handleSubmit}>
             <input
                 type="text"
                 placeholder="Buscar..."

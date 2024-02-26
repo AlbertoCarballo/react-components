@@ -21,3 +21,7 @@
     max-width: 100%;
     height: auto;
 }
+.buscador{
+    /* display: flex !important; */
+    margin-bottom: 15px !important;
+}
