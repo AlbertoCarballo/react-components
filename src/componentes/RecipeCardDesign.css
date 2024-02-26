@@ -1,0 +1,23 @@
+.card-image-wrapper {
+    overflow: hidden;
+    height: 200px;
+    /* Altura deseada para las imágenes */
+}
+
+.card-image-wrapper .img-product {
+    width: 100%;
+    height: auto;
+}
+
+.fila {
+    margin-bottom: 25px;
+    /* Ajusta el valor según sea necesario */
+}
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #217e4f !important;
+    border: var(--bs-border-width) solid #217e4f !important;
+    border-radius: var(--bs-border-radius);
+    max-width: 100%;
+    height: auto;
+}
