@@ -59,5 +59,12 @@ export default [
         categoria: ["Mexicana", "Maiz", "Puerco", "Cocina Regional"],
         descripcion: "Del náhuatl pozolli, de tlapozonalli, que significa espumoso, es un caldo hecho a base de granos de maíz cacahuazintle.",
         imagen: "https://media.admagazine.com/photos/618a62f85b87a99cfb816295/4:3/w_4000,h_3000,c_limit/76176.jpg"
+    },
+    {
+        nombre: "Tamales",
+        categoria: ["Mexicana", "Maiz", "Puerco", "Cocina Regional"],
+        descripcion: "Del náhuatl pozolli, de tlapozonalli, que significa espumoso, es un caldo hecho a base de granos de maíz cacahuazintle.",
+        imagen: "https://media.admagazine.com/photos/618a62f85b87a99cfb816295/4:3/w_4000,h_3000,c_limit/76176.jpg"
     }
+    
 ];
