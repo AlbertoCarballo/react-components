@@ -10,7 +10,7 @@
 }
 
 .fila {
-    margin-bottom: 25px;
+    padding-bottom: 25px !important;
     /* Ajusta el valor según sea necesario */
 }
 .img-thumbnail {
